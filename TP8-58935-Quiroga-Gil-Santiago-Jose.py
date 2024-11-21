@@ -21,7 +21,7 @@ def mostrar_informacion_alumno():
             st.write("")
         with cols[1]:
             st.markdown("""
-            ### Información del Estudiante
+            ### Información 
             - **Legajo:** 58935
             - **Nombre:** Quiroga Gil Santiago José
             - **Comisión:** 7
