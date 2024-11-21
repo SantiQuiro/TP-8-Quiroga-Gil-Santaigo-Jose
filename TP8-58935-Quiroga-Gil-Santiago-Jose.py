@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+# url = 'https://tp8-58935.streamlit.app'
 st.set_page_config(
     page_title="2do Parcial",
     page_icon="📊",
